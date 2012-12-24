@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Paint2SSActivity!</string>
+    <string name="app_name">Paint2SS</string>
+    <string name="menu_upper_left">reload</string>
+    <string name="menu_lower_right">exit</string>
+    <string name="menu_lower_left">Screenshot</string>
+    <string name="menu_upper_right">forward</string>
+    <string name="menu_upper_center">back</string>
+    <string name="menu_lower_center">・・・</string>
+
+</resources>
